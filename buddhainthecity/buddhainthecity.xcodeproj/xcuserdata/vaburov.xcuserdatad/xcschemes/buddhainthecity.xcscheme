@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "538594011B3E01BD0097825E"
+               BlueprintIdentifier = "5385948B1B3E066C0097825E"
                BuildableName = "buddhainthecity.app"
                BlueprintName = "buddhainthecity"
                ReferencedContainer = "container:buddhainthecity.xcodeproj">
@@ -28,7 +28,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "538594161B3E01BD0097825E"
+               BlueprintIdentifier = "538594A01B3E066C0097825E"
                BuildableName = "buddhainthecityTests.xctest"
                BlueprintName = "buddhainthecityTests"
                ReferencedContainer = "container:buddhainthecity.xcodeproj">
@@ -46,7 +46,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "538594161B3E01BD0097825E"
+               BlueprintIdentifier = "538594A01B3E066C0097825E"
                BuildableName = "buddhainthecityTests.xctest"
                BlueprintName = "buddhainthecityTests"
                ReferencedContainer = "container:buddhainthecity.xcodeproj">
@@ -56,7 +56,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "538594011B3E01BD0097825E"
+            BlueprintIdentifier = "5385948B1B3E066C0097825E"
             BuildableName = "buddhainthecity.app"
             BlueprintName = "buddhainthecity"
             ReferencedContainer = "container:buddhainthecity.xcodeproj">
@@ -76,7 +76,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "538594011B3E01BD0097825E"
+            BlueprintIdentifier = "5385948B1B3E066C0097825E"
             BuildableName = "buddhainthecity.app"
             BlueprintName = "buddhainthecity"
             ReferencedContainer = "container:buddhainthecity.xcodeproj">
@@ -95,7 +95,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "538594011B3E01BD0097825E"
+            BlueprintIdentifier = "5385948B1B3E066C0097825E"
             BuildableName = "buddhainthecity.app"
             BlueprintName = "buddhainthecity"
             ReferencedContainer = "container:buddhainthecity.xcodeproj">
